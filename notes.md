@@ -13,3 +13,6 @@
 ### git commit -m "adding file notes.md to folder"
 ### git status
 ### git push origin main
+### git add notes.md
+### git commit -m "adding commands i used to notes.md"
+### git push origin main
